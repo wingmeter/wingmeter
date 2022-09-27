@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 📫 How to reach me **nursb189@gmail.com**
+- 📫 Gmail: **nursb189@gmail.com**
+
+- ✨ Telegram: **@nurseyitb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
