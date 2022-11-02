@@ -1,9 +1,6 @@
 <h1 align="center">Привет 👋, я Нурсейит</h1>
 <h3 align="center">Я начинающий FrontEnd разработчик</h3>
 
-### 🔍 I’m currently open to work
-* Frontend developer
-
 ### 📖 How to reach me
 - 📫 Gmail: **nursb189@gmail.com**
 
