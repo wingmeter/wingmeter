@@ -5,6 +5,7 @@
 
 ### 📖 How to reach me
 - 📫 Gmail: **nursb189@gmail.com**
+- 📫 Telegram: **@nurseyitb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
