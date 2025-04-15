@@ -3,7 +3,7 @@
 
 ### 📖 How to reach me
 - 📫 Gmail: **nursb189@gmail.com**
-- 📫 Telegram: **@nurseyitb**
+- 📫 Telegram: **@callmenursss**
 
 
 <h3 align="left">Languages and Tools:</h3>
